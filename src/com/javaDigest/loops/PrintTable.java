@@ -41,7 +41,7 @@ public class PrintTable {
 
 /*
 
- This has to be printed.
+ This pattern has to be printed below.
         *
         **
         ***
@@ -49,6 +49,7 @@ public class PrintTable {
         *****
         ******
         *******
+*/
 
         for( int i = 0; i < 10; i++){ // it is deciding how many times loop will run // basically the number of rows
             for ( int j = 0; j <= i; j++){ // and for each row it will print if j = 0 and j < 10 means for each row this loop will run 0 to 9 means 100 times it will print 0 to 100.
@@ -56,9 +57,7 @@ public class PrintTable {
             }
             System.out.println();
         }
-*/
 
-//        break
         int i = 1;
         while ( i <= 1000 ){
             System.out.println(i);
