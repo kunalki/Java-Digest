@@ -25,9 +25,8 @@ public class PrintTable {
 //            i++;
 //        } while (i <= 10);
 
-/*
 
-     Factorial of a number
+//     Factorial of a number
         int num = 10; // 6 *  5 * 4 * 3 * 2 *1
         int rem = 1;
         while (num > 0) {
@@ -36,7 +35,6 @@ public class PrintTable {
         }
         System.out.println(rem);
 
-*/
 
 
 /*
