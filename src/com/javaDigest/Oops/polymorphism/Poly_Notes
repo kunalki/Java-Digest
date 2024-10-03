@@ -1,0 +1,18 @@
+Runtime Polymorphism = It is achieved by method overriding. So we can say, it is a process that resolves to call an overridden
+method at runtime. The process involves the use of reference variable of the superclass to call for an overridden method of the
+parent class to child class.
+      Animal dog = new Dog(); // upcasting means lower hierarchy object we are storing in upper hierarchy.
+      dog.sayHello();
+
+     Dog myDog = (Dog) dog; because inside dog we have reference of Dog object only
+so we can say it is down casting. And using this reference we can call both overridden methods of parent class to the child
+class and non-overridden methods of the child class.
+This is also known as dynamic binding or Dynamic method dispatch. When you call a method on a reference variable, the actual
+method to be executed is determined at runtime based on the object's actual type. This is known as dynamic binding.
+Catch : Here catch is whatever methods are there in Animal and are overridden by child class those methods only can be called
+ by the reference of Animal class means non-overridden methods of child class can not be called by the reference of the animal
+ class.
+
+Compile time Polymorphism = It is achieved by method overloading and decided at the compile time.
+This is also known as early binding or static polymorphism is a type of polymorphism in java that is resolved at compile time.
+It is achieved through method overloading.

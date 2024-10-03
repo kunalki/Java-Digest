@@ -1,0 +1,29 @@
+      =============================================Abstraction==========================================================
+
+Generalize or generic class can be abstract like vehicle animal human etc having some properties and  the class which will
+inherit these classes will have these properties.So obviously generic class won't have objects on it's own but the class which
+ will inherit these class can be instantiated on the reference of generic class.
+
+Concrete Method = The method which has body is called concrete method. or we can say method with implementation.
+Abstract Method = The Method which doesn't have body is called abstract method Or we can say Methods without implementation.
+
+Abstract Method means methods without implementation can only be declared in Abstract class.
+Abstract class can exists without having any abstract method. It is for them to have abstract methods necessarily.
+
+We created abstract class and declared concrete methods and abstract methods both in it as per requirement.
+Now all the child classes that are extending abstract class compulsorily will have to implement abstract methods in them
+with its own definition. That is the benefit of abstraction. Here we just declared the abstract method, unnecessarily we
+had not to implement the method in abstract parent class making the method abstract.
+
+Abstract class can not be instantiated. Means Object of abstract class can not be created. We can certainly created the
+reference of the Abstract class and object of the subclass which are inheriting the abstract class can be instantiate in the
+reference of the abstract class.
+
+Abstract class can have its constructor for any initial setup.
+
+But Abstract classes should not have public constructors.
+Constructors of abstract classes can only be called in constructors of their subclasses. So there is no point in making them
+public. The protected modifier should be enough.
+
+Protected access modifier is used when we want that field or method to be used in any of the classes which will extend the
+class where these field has been declared.

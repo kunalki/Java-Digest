@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35fb309c-a5a3-47d5-8446-cde6d5bd5615" name="Changes" comment="Fourth master commit">
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Abstraction_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Abstraction_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/abstraction/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/encapsulation/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/GrandParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/GrandParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/humans/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/inheritenece/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Poly_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/Poly_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/Oops/polymorphism/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/AccessModifier_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/AccessModifier_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/school/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/test/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/test/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/zoo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/accessModifier/zoo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/constructors/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/constructors/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/constructors/Constructor_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/constructors/Constructor_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/constructors/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/constructors/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/constructors/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/constructors/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/constructors/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/constructors/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/loops/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/loops/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/methods/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/methods/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/methods/ArrayPassByDots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/methods/ArrayPassByDots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/methods/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/methods/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaDigest/methods/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaDigest/methods/Dog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kunalki"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kunalki/Java-Digest.git",
+    "accountId": "bd9805cd-2df3-41ed-89af-04db068e4523"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mvHpNmvsTtf5wP5LUml8BirvdS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35fb309c-a5a3-47d5-8446-cde6d5bd5615" name="Changes" comment="" />
+      <created>1727950313593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727950313593</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First master commit">
+      <option name="closed" value="true" />
+      <created>1727956426581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727956426581</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second master commit">
+      <option name="closed" value="true" />
+      <created>1727957792593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727957792593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third master commit">
+      <option name="closed" value="true" />
+      <created>1727958758386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727958758386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fourth master commit">
+      <option name="closed" value="true" />
+      <created>1727963799570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727963799570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First master commit" />
+    <MESSAGE value="Second master commit" />
+    <MESSAGE value="Third master commit" />
+    <MESSAGE value="Fourth master commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth master commit" />
+  </component>
+</project>

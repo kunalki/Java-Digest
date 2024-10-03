@@ -1,0 +1,44 @@
+====================================Access Modifier these are basically keywords====================================================
+
+public --> Anywhere
+
+private --> class level access
+
+protected --> same class = yes, subclass same package = yes, same package = yes, subclass different package = yes,
+different package non subclass = no
+ fields or methods declared as protected in any class can only be accessed from the class which is extending the class or where these things been
+declared no matter from the same package of different package. And class which are available in the same package can also be accessed protected fields.
+
+default --> no keyword ( means no access modifier means default ) only same package from any class. Not other than that. whether its method or class
+default class can not be instantiated from any class other than the package the default class is in.
+
+Note: class only be either public or default
+
+Public access modifier means the field or method can be accessed from anywhere from any package.
+Private access modifier filed or methods can be accessed only from the class where it has been declared --> only on class level
+
+private constructor can also be created when we want to forcefully make sure that object of that particular class which constructor has been declared
+private could not be instantiated outside. I want only static methods to be created and static fields should be there of that class. No
+object creation should be there outside of that particular class. Then we will create private constructor. This scenario is one of the use cases of
+the private constructor.
+
+Second is same like Singleton Design there we also can use this.
+
+public class School {
+
+    // This is basically singleton pattern.
+    private static School instance;
+
+    private School(){
+
+    }
+
+    public static School getInstance(){
+        if( instance == null){
+            instance = new School();
+        }
+        return instance;
+    }
+}
+
+

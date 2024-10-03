@@ -1,0 +1,54 @@
+Constructor is a special method which is used to initialize the objects. And This method is used when we create any object.
+And it helps set the initial values. And this method does have the same name as class has it doesn't have any return type.
+
+Default constructor - which doesn't have anything in argument while creating the object. Basically when we do not define or
+or declare any custom constructor and initialize the object that is called default constructor new Student(). It automatically
+generates by the compiler. So basically we do not write default constructor. And that doesn't take any parameter as well.
+
+What does it do ? -> Basically it sets the default value of the instance variable of class. Means it sets null for String
+0 for int and so on and so forth. Until we set our own either using reference of the object or calling the set method.
+
+Custom Constructor -> It can have one or more than one parameters.
+
+Custom default overloaded constructor --> We can create our own custom constructor without any parameter. And in the body we can
+pass the instance variable value to overcome the default value of those instance variable. Here we are overloading the default
+constructor. passing the value of instance variable.
+e.g --> public Car() {
+                this.name = "tata"; // overloaded
+                this.age = 5; // overloaded
+            }
+Note: These value passed in the body of the constructor will be overridden. if we do set the value of the variables using
+set method.
+
+Custom parameterized constructor --> Similarly, we can create the custom parameterized constructor as well. where we can pass
+the local variable scoped to this constructor and we can store the local variable value to the instance variable calling
+this.name = name. this.name means instance variable.
+e.g. public Car (String name, int age ){ // the value of these local variables we will pass while creating object. And if we don't pass
+                                         // we will get error in the created object. Because implicit default constructor stops working
+                                          // as soon as we define our own parameterized constructor.
+         this.name = name;  // instance variable me hum local variables ko daal rahe hai.
+         this.age = age;
+}
+if we have to forcefully initialize the value of all the instance variables while creating object, then we can create this
+custom parameterized constructor. Again and Again we don't need to set the value using set method. And we can pass the condition
+as well for the variables passed in the constructor.
+
+Note: When we do pass value of the local variable while instantiating the class of the immediate above created constructor.
+and try to fetch the value using get method we do get the same value that we passed. But if we do set the value again of the
+variables using set method the passed value in that we passed while instantiating the class will be overridden again.
+
+Third Topic( constructor overloading ) --> It's not like that we can create only single parameterized constructor which have
+the same number of local variables as the number instance variables we have in the class.
+We can have other different constructors having different parameters as well. we call it constructor overloading.
+For e.g. --> public Car( String name ){
+                  this.name = name;
+         }
+             public Car( int age ){
+                this.age = age;
+         }
+So we can instantiate the class many times probably we have to instantiate the class where we just have to pass the car age.
+similarly one for car name. one for everything and so on.
+
+Note: very important --> we can make our constructor private if we have to restrict the object of our class to be created outside.
+
+Note : instance variable me hum local variables ko daal rahe hai.
